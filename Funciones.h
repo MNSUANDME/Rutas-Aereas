@@ -34,5 +34,6 @@ void cargarRutas(int matriz[][100]) {
     matriz[0][1] = 1; 
     matriz[1][2] = 1;
     matriz[2][3] = 1; 
-   
+   //perra de mrd
+    
 }
